@@ -7,8 +7,6 @@
     tools:context="internship.ibm.com.ers.MainActivity"
     android:name="com.google.android.gms.maps.SupportMapFragment"
     class="com.google.android.gms.maps.SupportMapFragment"
-    map:cameraTargetLat="20.5937"
-    map:cameraTargetLng="78.9629"
     map:uiCompass="true"
     map:uiRotateGestures="false"
     map:uiScrollGestures="true"

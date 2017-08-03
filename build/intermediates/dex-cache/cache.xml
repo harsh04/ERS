@@ -3,21 +3,39 @@
 
     <item
         is-multidex="true"
-        jar="H:\ERS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="ca6d6d64ea2424c3ff88372a942a956200a9d214">
-        <dex dex="H:\ERS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b6c5ca1de8d1692b5223ef4057f225c99f32f339\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="H:\ERS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="H:\ERS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_70df90a2559b926014ece56b03d0be4ea6f4b2b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh Mathur\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="H:\ERS\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_cc13f65440ca9aa4409f844b649bfa9c8de9a93f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh Mathur\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="H:\ERS\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_e21dc94207243ef34861bc55b2563af80d77171b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\ERS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3ee4baf83de80f8f55259fafc6d81b6bfabd8785">
+        <dex dex="H:\ERS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b6c5ca1de8d1692b5223ef4057f225c99f32f339\classes.dex" />
     </item>
 
 </items>
